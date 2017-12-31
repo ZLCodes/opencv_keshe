@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_keshe", "opencv_keshe\opencv_keshe.vcxproj", "{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Debug|x64.ActiveCfg = Debug|x64
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Debug|x64.Build.0 = Debug|x64
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Debug|x86.Build.0 = Debug|Win32
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Release|x64.ActiveCfg = Release|x64
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Release|x64.Build.0 = Release|x64
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Release|x86.ActiveCfg = Release|Win32
+		{F4B7F0ED-3594-4C5F-A00A-2B0B45E4C989}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D7420C-2CA4-48C9-95BE-874614405CB6}
+	EndGlobalSection
+EndGlobal
